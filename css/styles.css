@@ -1,0 +1,161 @@
+body {
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    font-size:125%;
+    text-align: center;
+}
+
+h1 {
+    color:#66BFBF;
+    font-family: 'Sacramento',cursive;
+    font-size: 5.625rem;
+}
+
+h2 {
+    color:#66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:900;
+    font-size: 200%;
+}
+
+h3 {
+    color:#66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:bolder;
+}
+
+hr {
+    border-style:dotted;
+    color: #EAF6F6;
+    border-width: 10px;
+    width:70px;
+    border-bottom: none;
+}
+
+hr:hover {
+    color:#66BFBF;
+}
+
+.python-img {
+    height: 220px;
+    width: 220px;
+    float:left;
+    padding-right: 20px;
+
+}
+
+.skills {
+    margin-top:100px;
+}
+
+.computer-img {
+    height: 250px;
+    width: 250px;
+    float:right;
+}
+
+.top-container {
+    padding-top:100px;
+    position:relative;
+    background-color: #EAF6F6;
+    text-align: center;
+}
+
+.first-cloud {
+    position:relative;
+    top:50px;
+}
+
+.second-cloud {
+    position:absolute;
+    left:500px;
+}
+
+.my_image {
+    margin-top: 60px;
+    height: 12%;
+    width: 12%;
+}
+
+.about-me {
+    color: #40514E;
+    width:50%;
+    margin: 100px auto;
+
+}
+
+.contact-me {
+    margin-top:100px;
+    margin-bottom:100px;
+    line-height: 2;
+}
+
+.pro {
+    border-bottom-style: solid;
+    border-width: 4px;
+
+}
+
+.skill-row {
+    width: 50%;
+    text-align: left;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+
+}
+
+.cloud-container {
+    position:absolute;
+    right: 500px;
+}
+.footer-link {
+    text-decoration: none;
+    font-size: 90%;
+    font-family: 'verdana', sans-serif;
+    color:#11999E;
+    padding-right:50px;
+
+}
+
+.footer-link:hover {
+    color:white;
+}
+
+.bottom-container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color:#66BFBF;
+
+}
+
+.footer-container {
+    position:relative;
+    bottom:20px;
+}
+.bottom-container p {
+    font-size: 75%;
+    color:#EAF6F6;
+    margin-bottom:0;
+}
+
+.btn {
+    text-decoration: none;
+    color:white;
+    border: none;
+    background-image: linear-gradient(#66BFBF,#11999E);
+    border-radius: 5px;
+    font-size: 15px;
+    padding:5px 10px;
+    font-family: 'Verdana', monospace;
+    font-weight: 500;
+}
+
+.btn:hover {
+  color: #40514E;
+}
+
+
+.btn-container {
+    position:relative;
+    bottom:60px;
+}
